@@ -85,12 +85,6 @@ func main() {
   </tr>
 </table>
 
-📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jahid-taj&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jahid-taj&theme=dark&hide_border=false" />
-</p>
 
 <p align="center">
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahid-taj&theme=dark&hide_title=true&layout=compact&langs_count=8" />
