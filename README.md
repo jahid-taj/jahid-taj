@@ -85,8 +85,3 @@ func main() {
   </tr>
 </table>
 
-
-<p align="center">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahid-taj&theme=dark&hide_title=true&layout=compact&langs_count=8" />
-</p>
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
